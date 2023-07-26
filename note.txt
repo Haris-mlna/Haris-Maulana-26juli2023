@@ -1,0 +1,4 @@
+pegawai_id = int (autoincrement)
+pegawai_nama = varchar (50)
+pegawai jabatan = varchar(20)
+pegawai_umur = intpegawai_alamat = text
